@@ -50,8 +50,25 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 | [0678-valid-parenthesis-string](https://github.com/Nehaa14git/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nehaa14git/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Nehaa14git/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
+## Array
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
