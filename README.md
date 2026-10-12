@@ -51,6 +51,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nehaa14git/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,4 +78,12 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Hash Table
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
