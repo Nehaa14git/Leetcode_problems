@@ -62,6 +62,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,8 +83,17 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
