@@ -59,9 +59,11 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Nehaa14git/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 ## Array
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -133,6 +135,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -154,4 +157,12 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
