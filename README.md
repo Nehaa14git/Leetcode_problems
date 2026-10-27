@@ -170,4 +170,8 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Nehaa14git/Leetcode_problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
