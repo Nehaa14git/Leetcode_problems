@@ -17,6 +17,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 | [2409-count-days-spent-together](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -186,4 +188,12 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Nehaa14git/Leetcode_problems/tree/master/0175-combine-two-tables) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
