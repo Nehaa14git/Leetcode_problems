@@ -68,6 +68,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nehaa14git/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -135,6 +136,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nehaa14git/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3886-sum-of-sortable-integers) |
