@@ -60,6 +60,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nehaa14git/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 | [2409-count-days-spent-together](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
