@@ -35,6 +35,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehaa14git/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A structured collection of optimized Java solutions for algorithmic problems, wi
 | [3886-sum-of-sortable-integers](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3886-sum-of-sortable-integers) |
 | [3934-smallest-unique-subarray](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nehaa14git/Leetcode_problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
